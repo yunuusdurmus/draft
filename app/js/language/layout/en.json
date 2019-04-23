@@ -1,0 +1,27 @@
+{
+	"layout":{
+		"eKatalog":"E-CATALOGUE",
+		"yaklasanFuarlar":"UPCOMING EXHIBITIONS",
+		"kurumsal":"CORPORATE & QUALITY",
+		"urunler":"PRODUCTS",
+		"iletisim":"CONTACT",
+		"blog":"EXHIBITIONS",
+		"home":"HOME",
+
+		"info":"Information",
+		"quality":"Quality Policy",
+		"privat":"Private Policy",
+		"deliver":"Delivery Terms",
+		"about":"About Us",
+
+		"productsGrup":"Products Group",
+		"jole":"Jelly Group",
+		"cholate":"Chocolate Group",
+		"candy":"Candy Group",
+		"gift":"Gift Boxs",
+
+		"phone":"P : +90 (332) 239 23 23 (pbx)",
+		"fax":"F : +90 (332) 239 10 88",
+		"mail":"M : evliya@evliya.com.tr"
+	}
+}

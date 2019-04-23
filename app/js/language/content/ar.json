@@ -1,0 +1,2576 @@
+{
+	"products":[
+		{
+		 	"root" : "1-jival",
+		 	"icone" : "/app/img/products/1-jival/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/1-jival/2.gif",
+	 				"code":"001",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-jival/3.gif",
+	 				"code":"003",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-jival/4.gif",
+	 				"code":"002",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/1-jival/1.gif"},
+	 			{"image" : "/app/img/products/1-jival/2.gif"},
+	 			{"image" : "/app/img/products/1-jival/3.gif"},
+	 			{"image" : "/app/img/products/1-jival/1.gif"}
+	 		]
+		},
+		{
+		 	"root" : "2-jival-extra",
+		 	"icone" : "/app/img/products/2-jival-extra/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/2-jival-extra/2.gif",
+	 				"code":"010",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/2-jival-extra/3.gif",
+	 				"code":"012",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/2-jival-extra/4.gif",
+	 				"code":"011",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/2-jival-extra/1.gif"},
+	 			{"image" : "/app/img/products/2-jival-extra/2.gif"},
+	 			{"image" : "/app/img/products/2-jival-extra/3.gif"},
+	 			{"image" : "/app/img/products/2-jival-extra/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "3-trent",
+		 	"icone" : "/app/img/products/3-trent/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/3-trent/2.gif",
+	 				"code":"020",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/3-trent/3.gif",
+	 				"code":"022",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/3-trent/4.gif",
+	 				"code":"021",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/3-trent/1.gif"},
+	 			{"image" : "/app/img/products/3-trent/2.gif"},
+	 			{"image" : "/app/img/products/3-trent/3.gif"},
+	 			{"image" : "/app/img/products/3-trent/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "4-label",
+		 	"icone" : "/app/img/products/4-label/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/4-label/2.gif",
+	 				"code":"030",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/4-label/3.gif",
+	 				"code":"032",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/4-label/4.gif",
+	 				"code":"031",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/4-label/1.gif"},
+	 			{"image" : "/app/img/products/4-label/2.gif"},
+	 			{"image" : "/app/img/products/4-label/3.gif"},
+	 			{"image" : "/app/img/products/4-label/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "5-davet",
+		 	"icone" : "/app/img/products/5-davet/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/5-davet/2.gif",
+	 				"code":"040",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/5-davet/3.gif",
+	 				"code":"042",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/5-davet/4.gif",
+	 				"code":"043",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/5-davet/1.gif"},
+	 			{"image" : "/app/img/products/5-davet/2.gif"},
+	 			{"image" : "/app/img/products/5-davet/3.gif"},
+	 			{"image" : "/app/img/products/5-davet/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "6-firsat-twist-special",
+		 	"icone" : "/app/img/products/6-firsat-twist-special/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/6-firsat-twist-special/2.gif",
+	 				"code":"050",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/6-firsat-twist-special/3.gif",
+	 				"code":"052",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/6-firsat-twist-special/4.gif",
+	 				"code":"051",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/6-firsat-twist-special/1.gif"},
+	 			{"image" : "/app/img/products/6-firsat-twist-special/2.gif"},
+	 			{"image" : "/app/img/products/6-firsat-twist-special/3.gif"},
+	 			{"image" : "/app/img/products/6-firsat-twist-special/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "7-gold-ctir",
+		 	"icone" : "/app/img/products/7-gold-ctir/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/7-gold-ctir/2.gif",
+	 				"code":"060",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/7-gold-ctir/3.gif",
+	 				"code":"062",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/7-gold-ctir/4.gif",
+	 				"code":"061",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/7-gold-ctir/1.gif"},
+	 			{"image" : "/app/img/products/7-gold-ctir/2.gif"},
+	 			{"image" : "/app/img/products/7-gold-ctir/3.gif"},
+	 			{"image" : "/app/img/products/7-gold-ctir/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "8-stillo",
+		 	"icone" : "/app/img/products/8-stillo/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/8-stillo/2.gif",
+	 				"code":"070",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/8-stillo/3.gif",
+	 				"code":"072",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/8-stillo/4.gif",
+	 				"code":"071",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/8-stillo/1.gif"},
+	 			{"image" : "/app/img/products/8-stillo/2.gif"},
+	 			{"image" : "/app/img/products/8-stillo/3.gif"},
+	 			{"image" : "/app/img/products/8-stillo/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "9-perfect",
+		 	"icone" : "/app/img/products/9-perfect/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/9-perfect/2.gif",
+	 				"code":"080",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/9-perfect/3.gif",
+	 				"code":"082",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/9-perfect/4.gif",
+	 				"code":"081",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/9-perfect/1.gif"},
+	 			{"image" : "/app/img/products/9-perfect/2.gif"},
+	 			{"image" : "/app/img/products/9-perfect/3.gif"},
+	 			{"image" : "/app/img/products/9-perfect/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "10-walnut-twist",
+		 	"icone" : "/app/img/products/10-walnut-twist/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/10-walnut-twist/2.gif",
+	 				"code":"090",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/10-walnut-twist/3.gif",
+	 				"code":"092",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/10-walnut-twist/4.gif",
+	 				"code":"091",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/10-walnut-twist/1.gif"},
+	 			{"image" : "/app/img/products/10-walnut-twist/2.gif"},
+	 			{"image" : "/app/img/products/10-walnut-twist/3.gif"},
+	 			{"image" : "/app/img/products/10-walnut-twist/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "11-king",
+		 	"icone" : "/app/img/products/11-king/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/11-king/2.gif",
+	 				"code":"100",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/11-king/3.gif",
+	 				"code":"102",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/11-king/4.gif",
+	 				"code":"101",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/11-king/1.gif"},
+	 			{"image" : "/app/img/products/11-king/2.gif"},
+	 			{"image" : "/app/img/products/11-king/3.gif"},
+	 			{"image" : "/app/img/products/11-king/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "12-chokolof",
+		 	"icone" : "/app/img/products/12-chokolof/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/12-chokolof/3.gif",
+	 				"code":"110",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/12-chokolof/4.gif",
+	 				"code":"112",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/12-chokolof/5.gif",
+	 				"code":"111",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/12-chokolof/1.gif"},
+	 			{"image" : "/app/img/products/12-chokolof/2.gif"},
+	 			{"image" : "/app/img/products/12-chokolof/3.gif"},
+	 			{"image" : "/app/img/products/12-chokolof/4.gif"},
+	 			{"image" : "/app/img/products/12-chokolof/5.gif"}
+	 		]
+		},
+		{
+		 	"root" : "13-sultan",
+		 	"icone" : "/app/img/products/13-sultan/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/13-sultan/2.gif",
+	 				"code":"120",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/13-sultan/3.gif",
+	 				"code":"122",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/13-sultan/4.gif",
+	 				"code":"121",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/13-sultan/1.gif"},
+	 			{"image" : "/app/img/products/13-sultan/2.gif"},
+	 			{"image" : "/app/img/products/13-sultan/3.gif"},
+	 			{"image" : "/app/img/products/13-sultan/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "14-expence",
+		 	"icone" : "/app/img/products/14-expence/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/14-expence/2.gif",
+	 				"code":"130",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/14-expence/3.gif",
+	 				"code":"132",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/14-expence/4.gif",
+	 				"code":"131",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/14-expence/1.gif"},
+	 			{"image" : "/app/img/products/14-expence/2.gif"},
+	 			{"image" : "/app/img/products/14-expence/3.gif"},
+	 			{"image" : "/app/img/products/14-expence/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "15-stilloks-black",
+		 	"icone" : "/app/img/products/15-stilloks-black/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/15-stilloks-black/2.gif",
+	 				"code":"140",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/15-stilloks-black/3.gif",
+	 				"code":"142",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/15-stilloks-black/4.gif",
+	 				"code":"141",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/15-stilloks-black/1.gif"},
+	 			{"image" : "/app/img/products/15-stilloks-black/2.gif"},
+	 			{"image" : "/app/img/products/15-stilloks-black/3.gif"},
+	 			{"image" : "/app/img/products/15-stilloks-black/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "16-stilloks-extra",
+		 	"icone" : "/app/img/products/16-stilloks-extra/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/16-stilloks-extra/2.gif",
+	 				"code":"150",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/16-stilloks-extra/3.gif",
+	 				"code":"152",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/16-stilloks-extra/4.gif",
+	 				"code":"151",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/16-stilloks-extra/1.gif"},
+	 			{"image" : "/app/img/products/16-stilloks-extra/2.gif"},
+	 			{"image" : "/app/img/products/16-stilloks-extra/3.gif"},
+	 			{"image" : "/app/img/products/16-stilloks-extra/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "17-stilloks",
+		 	"icone" : "/app/img/products/17-stilloks/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/17-stilloks/2.gif",
+	 				"code":"160",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/17-stilloks/3.gif",
+	 				"code":"162",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/17-stilloks/4.gif",
+	 				"code":"161",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/17-stilloks/1.gif"},
+	 			{"image" : "/app/img/products/17-stilloks/2.gif"},
+	 			{"image" : "/app/img/products/17-stilloks/3.gif"},
+	 			{"image" : "/app/img/products/17-stilloks/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "18-cocoss",
+		 	"icone" : "/app/img/products/18-cocoss/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/18-cocoss/2.gif",
+	 				"code":"170",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/18-cocoss/3.gif",
+	 				"code":"172",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/18-cocoss/4.gif",
+	 				"code":"171",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/18-cocoss/1.gif"},
+	 			{"image" : "/app/img/products/18-cocoss/2.gif"},
+	 			{"image" : "/app/img/products/18-cocoss/3.gif"},
+	 			{"image" : "/app/img/products/18-cocoss/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "19-firsat",
+		 	"icone" : "/app/img/products/19-firsat/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/19-firsat/2.gif",
+	 				"code":"180",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/19-firsat/3.gif",
+	 				"code":"182",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/19-firsat/4.gif",
+	 				"code":"181",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/19-firsat/1.gif"},
+	 			{"image" : "/app/img/products/19-firsat/2.gif"},
+	 			{"image" : "/app/img/products/19-firsat/3.gif"},
+	 			{"image" : "/app/img/products/19-firsat/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "20-firsat-twist",
+		 	"icone" : "/app/img/products/20-firsat-twist/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/20-firsat-twist/2.gif",
+	 				"code":"190",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/20-firsat-twist/3.gif",
+	 				"code":"192",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/20-firsat-twist/4.gif",
+	 				"code":"191",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/20-firsat-twist/1.gif"},
+	 			{"image" : "/app/img/products/20-firsat-twist/2.gif"},
+	 			{"image" : "/app/img/products/20-firsat-twist/3.gif"},
+	 			{"image" : "/app/img/products/20-firsat-twist/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "21-firsat-big",
+		 	"icone" : "/app/img/products/21-firsat-big/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/21-firsat-big/2.gif",
+	 				"code":"200",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/21-firsat-big/3.gif",
+	 				"code":"202",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/21-firsat-big/4.gif",
+	 				"code":"201",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/21-firsat-big/1.gif"},
+	 			{"image" : "/app/img/products/21-firsat-big/2.gif"},
+	 			{"image" : "/app/img/products/21-firsat-big/3.gif"},
+	 			{"image" : "/app/img/products/21-firsat-big/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "22-firsat-torbacik",
+		 	"icone" : "/app/img/products/22-firsat-torbacik/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/22-firsat-torbacik/2.gif",
+	 				"code":"330",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/22-firsat-torbacik/3.gif",
+	 				"code":"332",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/22-firsat-torbacik/4.gif",
+	 				"code":"331",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/22-firsat-torbacik/1.gif"},
+	 			{"image" : "/app/img/products/22-firsat-torbacik/2.gif"},
+	 			{"image" : "/app/img/products/22-firsat-torbacik/3.gif"},
+	 			{"image" : "/app/img/products/22-firsat-torbacik/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "23-inci",
+		 	"icone" : "/app/img/products/23-inci/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/23-inci/2.gif",
+	 				"code":"230",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/23-inci/3.gif",
+	 				"code":"232",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/23-inci/4.gif",
+	 				"code":"231",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/23-inci/1.gif"},
+	 			{"image" : "/app/img/products/23-inci/2.gif"},
+	 			{"image" : "/app/img/products/23-inci/3.gif"},
+	 			{"image" : "/app/img/products/23-inci/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "24-twist",
+		 	"icone" : "/app/img/products/24-twist/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/24-twist/2.gif",
+	 				"code":"240",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/24-twist/3.gif",
+	 				"code":"242",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/24-twist/4.gif",
+	 				"code":"241",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/24-twist/1.gif"},
+	 			{"image" : "/app/img/products/24-twist/2.gif"},
+	 			{"image" : "/app/img/products/24-twist/3.gif"},
+	 			{"image" : "/app/img/products/24-twist/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "25-marka",
+		 	"icone" : "/app/img/products/25-marka/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/25-marka/2.gif",
+	 				"code":"250",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/25-marka/3.gif",
+	 				"code":"252",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/25-marka/4.gif",
+	 				"code":"251",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/25-marka/1.gif"},
+	 			{"image" : "/app/img/products/25-marka/2.gif"},
+	 			{"image" : "/app/img/products/25-marka/3.gif"},
+	 			{"image" : "/app/img/products/25-marka/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "26-evliya-meda-twist",
+		 	"icone" : "/app/img/products/26-evliya-meda-twist/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/26-evliya-meda-twist/2.gif",
+	 				"code":"260",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/26-evliya-meda-twist/3.gif",
+	 				"code":"262",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/26-evliya-meda-twist/4.gif",
+	 				"code":"261",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/26-evliya-meda-twist/1.gif"},
+	 			{"image" : "/app/img/products/26-evliya-meda-twist/2.gif"},
+	 			{"image" : "/app/img/products/26-evliya-meda-twist/3.gif"},
+	 			{"image" : "/app/img/products/26-evliya-meda-twist/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "27-meda",
+		 	"icone" : "/app/img/products/27-meda/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/27-meda/2.gif",
+	 				"code":"270",
+	 				"weight":"3kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/27-meda/3.gif",
+	 				"code":"272",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/27-meda/4.gif",
+	 				"code":"271",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/27-meda/1.gif"},
+	 			{"image" : "/app/img/products/27-meda/2.gif"},
+	 			{"image" : "/app/img/products/27-meda/3.gif"},
+	 			{"image" : "/app/img/products/27-meda/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "28-evliya-wolt",
+		 	"icone" : "/app/img/products/28-evliya-wolt/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/28-evliya-wolt/2.gif",
+	 				"code":"300",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/28-evliya-wolt/3.gif",
+	 				"code":"301",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/28-evliya-wolt/1.gif"},
+	 			{"image" : "/app/img/products/28-evliya-wolt/2.gif"},
+	 			{"image" : "/app/img/products/28-evliya-wolt/3.gif"},
+	 			{"image" : "/app/img/products/28-evliya-wolt/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "29-vento-twist",
+		 	"icone" : "/app/img/products/29-vento-twist/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/29-vento-twist/2.gif",
+	 				"code":"290",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/29-vento-twist/3.gif",
+	 				"code":"292",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/29-vento-twist/4.gif",
+	 				"code":"291",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/29-vento-twist/1.gif"},
+	 			{"image" : "/app/img/products/29-vento-twist/2.gif"},
+	 			{"image" : "/app/img/products/29-vento-twist/3.gif"},
+	 			{"image" : "/app/img/products/29-vento-twist/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "30-istanbul",
+		 	"icone" : "/app/img/products/30-istanbul/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/30-istanbul/2.gif",
+	 				"code":"310",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/30-istanbul/3.gif",
+	 				"code":"312",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/30-istanbul/4.gif",
+	 				"code":"311",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/30-istanbu/1.gif"},
+	 			{"image" : "/app/img/products/30-istanbu/2.gif"},
+	 			{"image" : "/app/img/products/30-istanbu/3.gif"},
+	 			{"image" : "/app/img/products/30-istanbu/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "31-star-layf",
+		 	"icone" : "/app/img/products/31-star-layf/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/31-star-layf/2.gif",
+	 				"code":"220",
+	 				"weight":"3kg",
+	 				"packages":"6x3kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/31-star-layf/3.gif",
+	 				"code":"221",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/31-star-layf/1.gif"},
+	 			{"image" : "/app/img/products/31-star-layf/2.gif"},
+	 			{"image" : "/app/img/products/31-star-layf/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "32-istanbul-chocolate",
+		 	"icone" : "/app/img/products/32-istanbul-chocolate/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/32-istanbul-chocolate/2.gif",
+	 				"code":"320",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/32-istanbul-chocolate/3.gif",
+	 				"code":"322",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/32-istanbul-chocolate/4.gif",
+	 				"code":"321",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/32-istanbul-chocolate/1.gif"},
+	 			{"image" : "/app/img/products/32-istanbul-chocolate/2.gif"},
+	 			{"image" : "/app/img/products/32-istanbul-chocolate/3.gif"},
+	 			{"image" : "/app/img/products/32-istanbul-chocolate/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "33-sport-cocoline",
+		 	"icone" : "/app/img/products/33-sport-cocoline/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/33-sport-cocoline/2.gif",
+	 				"code":"350",
+	 				"weight":"3kg",
+	 				"packages":"6x3kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/33-sport-cocoline/3.gif",
+	 				"code":"352",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/33-sport-cocoline/4.gif",
+	 				"code":"351",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/33-sport-cocoline/1.gif"},
+	 			{"image" : "/app/img/products/33-sport-cocoline/2.gif"},
+	 			{"image" : "/app/img/products/33-sport-cocoline/3.gif"},
+	 			{"image" : "/app/img/products/33-sport-cocoline/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "34-regno",
+		 	"icone" : "/app/img/products/34-regno/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/34-regno/2.gif",
+	 				"code":"360",
+	 				"weight":"3kg",
+	 				"packages":"6x3kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/34-regno/3.gif",
+	 				"code":"362",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/34-regno/4.gif",
+	 				"code":"361",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/34-regno/1.gif"},
+	 			{"image" : "/app/img/products/34-regno/2.gif"},
+	 			{"image" : "/app/img/products/34-regno/3.gif"},
+	 			{"image" : "/app/img/products/34-regno/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "35-mini-cooper",
+		 	"icone" : "/app/img/products/35-mini-cooper/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/35-mini-cooper/2.gif",
+	 				"code":"410",
+	 				"weight":"550g",
+	 				"packages":"8x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/35-mini-cooper/3.gif",
+	 				"code":"411",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/35-mini-cooper/1.gif"},
+	 			{"image" : "/app/img/products/35-mini-cooper/2.gif"},
+	 			{"image" : "/app/img/products/35-mini-cooper/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "36-armoni",
+		 	"icone" : "/app/img/products/36-armoni/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/36-armoni/2.gif",
+	 				"code":"340",
+	 				"weight":"30g",
+	 				"packages":"(6x24)x30g"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/36-armoni/1.gif"},
+	 			{"image" : "/app/img/products/36-armoni/2.gif"}
+	 		]
+		},
+		{
+		 	"root" : "37-moda-premium",
+		 	"icone" : "/app/img/products/37-moda-premium/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/37-moda-premium/2.gif",
+	 				"code":"370",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/37-moda-premium/3.gif",
+	 				"code":"371",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/aaaa/1.gif"},
+	 			{"image" : "/app/img/products/aaaa/2.gif"},
+	 			{"image" : "/app/img/products/aaaa/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "38-moda-cow-milk",
+		 	"icone" : "/app/img/products/38-moda-cow-milk/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/38-moda-cow-milk/2.gif",
+	 				"code":"380",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/38-moda-cow-milk/3.gif",
+	 				"code":"381",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/38-moda-cow-milk/1.gif"},
+	 			{"image" : "/app/img/products/38-moda-cow-milk/2.gif"},
+	 			{"image" : "/app/img/products/38-moda-cow-milk/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "39-walnut-duo",
+		 	"icone" : "/app/img/products/39-walnut-duo/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/39-walnut-duo/2.gif",
+	 				"code":"390",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/39-walnut-duo/3.gif",
+	 				"code":"392",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/39-walnut-duo/4.gif",
+	 				"code":"391",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/39-walnut-duo/1.gif"},
+	 			{"image" : "/app/img/products/39-walnut-duo/2.gif"},
+	 			{"image" : "/app/img/products/39-walnut-duo/3.gif"},
+	 			{"image" : "/app/img/products/39-walnut-duo/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "40-evliya-mangolin",
+		 	"icone" : "/app/img/products/40-evliya-mangolin/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/40-evliya-mangolin/2.gif",
+	 				"code":"400",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/40-evliya-mangolin/3.gif",
+	 				"code":"402",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/40-evliya-mangolin/4.gif",
+	 				"code":"401",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/40-evliya-mangolin/1.gif"},
+	 			{"image" : "/app/img/products/40-evliya-mangolin/2.gif"},
+	 			{"image" : "/app/img/products/40-evliya-mangolin/3.gif"},
+	 			{"image" : "/app/img/products/40-evliya-mangolin/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "41-ciko",
+		 	"icone" : "/app/img/products/41-ciko/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/41-ciko/2.gif",
+	 				"code":"430",
+	 				"weight":"3kg",
+	 				"packages":"6x3kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/41-ciko/3.gif",
+	 				"code":"431",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/41-ciko/1.gif"},
+	 			{"image" : "/app/img/products/41-ciko/2.gif"},
+	 			{"image" : "/app/img/products/41-ciko/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "42-walnut-kirancli",
+		 	"icone" : "/app/img/products/42-walnut-kirancli/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/42-walnut-kirancli/2.gif",
+	 				"code":"440",
+	 				"weight":"3kg",
+	 				"packages":"6x3kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/42-walnut-kirancli/3.gif",
+	 				"code":"442",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/42-walnut-kirancli/4.gif",
+	 				"code":"441",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/42-walnut-kirancli/1.gif"},
+	 			{"image" : "/app/img/products/42-walnut-kirancli/2.gif"},
+	 			{"image" : "/app/img/products/42-walnut-kirancli/3.gif"},
+	 			{"image" : "/app/img/products/42-walnut-kirancli/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "43-stixmax",
+		 	"icone" : "/app/img/products/43-stixmax/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/43-stixmax/2.gif",
+	 				"code":"420",
+	 				"weight":"30g",
+	 				"packages":"12x(24x30g)"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/43-stixmax/1.gif"},
+	 			{"image" : "/app/img/products/43-stixmax/2.gif"}
+	 		]
+		},
+		{
+		 	"root" : "44-choco-life",
+		 	"icone" : "/app/img/products/44-choco-life/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/44-choco-life/1.gif",
+	 				"code":"000",
+	 				"weight":"000",
+	 				"packages":"000"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/44-choco-life/2.gif",
+	 				"code":"000",
+	 				"weight":"000",
+	 				"packages":"000"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/44-choco-life/3.gif",
+	 				"code":"000",
+	 				"weight":"000",
+	 				"packages":"0000"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/44-choco-life/5.gif",
+	 				"code":"000",
+	 				"weight":"000",
+	 				"packages":"0000"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/44-choco-life/6.gif",
+	 				"code":"000",
+	 				"weight":"000",
+	 				"packages":"0000"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/44-choco-life/1.gif"},
+	 			{"image" : "/app/img/products/44-choco-life/2.gif"},
+	 			{"image" : "/app/img/products/44-choco-life/3.gif"},
+	 			{"image" : "/app/img/products/44-choco-life/4.gif"},
+	 			{"image" : "/app/img/products/44-choco-life/5.gif"},
+	 			{"image" : "/app/img/products/44-choco-life/6.gif"}
+	 		]
+		},
+		{
+		 	"root" : "45-hediyelik&kutu",
+		 	"icone" : "/app/img/products/45-hediyelik&kutu/icone.gif",
+		 	"info" : [
+		 		{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/1.gif",
+	 				"code":"500",
+	 				"weight":"600g",
+	 				"packages":"8x600kg"
+	 			},
+		 		{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/2.gif",
+	 				"code":"501",
+	 				"weight":"600g",
+	 				"packages":"8x600g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/3.gif",
+	 				"code":"502",
+	 				"weight":"700g",
+	 				"packages":"8x700g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/4.gif",
+	 				"code":"503",
+	 				"weight":"700g",
+	 				"packages":"8x700g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/5.gif",
+	 				"code":"504",
+	 				"weight":"600g",
+	 				"packages":"8x600g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/6.gif",
+	 				"code":"505",
+	 				"weight":"600g",
+	 				"packages":"8x620kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/7.gif",
+	 				"code":"506",
+	 				"weight":"620g",
+	 				"packages":"6x620kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/8.gif",
+	 				"code":"507",
+	 				"weight":"320g",
+	 				"packages":"12x320g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/9.gif",
+	 				"code":"508",
+	 				"weight":"650g",
+	 				"packages":"8x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/10.gif",
+	 				"code":"509",
+	 				"weight":"650g",
+	 				"packages":"9x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/11.gif",
+	 				"code":"510",
+	 				"weight":"700g",
+	 				"packages":"6x700g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/12.gif",
+	 				"code":"511",
+	 				"weight":"600g",
+	 				"packages":"8x600g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/13.gif",
+	 				"code":"512",
+	 				"weight":"700g",
+	 				"packages":"9x700g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/14.gif",
+	 				"code":"513",
+	 				"weight":"600g",
+	 				"packages":"6x600g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/15.gif",
+	 				"code":"514",
+	 				"weight":"550g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/16.gif",
+	 				"code":"515",
+	 				"weight":"700g",
+	 				"packages":"8x700g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/17.gif",
+	 				"code":"516",
+	 				"weight":"700g",
+	 				"packages":"6x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/18.gif",
+	 				"code":"517",
+	 				"weight":"550g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/45-hediyelik&kutu/19.gif",
+	 				"code":"518",
+	 				"weight":"650g",
+	 				"packages":"6x650g"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/1.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/2.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/3.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/4.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/5.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/6.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/7.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/8.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/9.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/10.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/11.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/12.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/13.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/14.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/15.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/16.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/17.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/18.gif"},
+	 			{"image" : "/app/img/products/45-hediyelik&kutu/19.gif"}
+	 		]
+		},
+		{
+		 	"root" : "46-joley-extra-soft",
+		 	"icone" : "/app/img/products/46-joley-extra-soft/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/46-joley-extra-soft/3.gif",
+	 				"code":"2001-2011",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/46-joley-extra-soft/7.gif",
+	 				"code":"2000-2010",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/46-joley-extra-soft/4.gif",
+	 				"code":"2002",
+	 				"weight":"100g",
+	 				"packages":"24x100g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/46-joley-extra-soft/6.gif",
+	 				"code":"2003-2012",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/46-joley-extra-soft/5.gif",
+	 				"code":"2004-2013",
+	 				"weight":"1kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/46-joley-extra-soft/1.gif"},
+	 			{"image" : "/app/img/products/46-joley-extra-soft/2.gif"},
+	 			{"image" : "/app/img/products/46-joley-extra-soft/3.gif"},
+	 			{"image" : "/app/img/products/46-joley-extra-soft/4.gif"},
+	 			{"image" : "/app/img/products/46-joley-extra-soft/5.gif"},
+	 			{"image" : "/app/img/products/46-joley-extra-soft/6.gif"},
+	 			{"image" : "/app/img/products/46-joley-extra-soft/7.gif"}
+	 		]
+		},
+		{
+		 	"root" : "47-joley-cola",
+		 	"icone" : "/app/img/products/47-joley-cola/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/47-joley-cola/2.gif",
+	 				"code":"2021",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/47-joley-cola/3.gif",
+	 				"code":"2020",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/47-joley-cola/1.gif",
+	 				"code":"2022",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/47-joley-cola/1.gif"},
+	 			{"image" : "/app/img/products/47-joley-cola/2.gif"},
+	 			{"image" : "/app/img/products/47-joley-cola/3.gif"},
+	 			{"image" : "/app/img/products/47-joley-cola/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "59-tofis",
+		 	"icone" : "/app/img/products/59-tofis/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/59-tofis/3.gif",
+	 				"code":"1002",
+	 				"weight":"2kg",
+	 				"packages":"8x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/59-tofis/2.gif",
+	 				"code":"1001",
+	 				"weight":"38g",
+	 				"packages":"4x(80x38g)"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/59-tofis/1.gif"},
+	 			{"image" : "/app/img/products/59-tofis/2.gif"},
+	 			{"image" : "/app/img/products/59-tofis/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "60-tofim",
+		 	"icone" : "/app/img/products/60-tofim/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/60-tofim/3.gif",
+	 				"code":"1012",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/60-tofim/2.gif",
+	 				"code":"1011",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/60-tofim/4.gif",
+	 				"code":"1010",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/60-tofim/1.gif"},
+	 			{"image" : "/app/img/products/60-tofim/2.gif"},
+	 			{"image" : "/app/img/products/60-tofim/3.gif"},
+	 			{"image" : "/app/img/products/60-tofim/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "61-favori",
+		 	"icone" : "/app/img/products/61-favori/icone.gif",
+		 	"info" : [
+		 		{
+	 				"image" : "/app/img/products/61-favori/2.gif",
+	 				"code":"1022",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/61-favori/3.gif",
+	 				"code":"1023",
+	 				"weight":"1kg",
+	 				"packages":"8x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/61-favori/8.gif",
+	 				"code":"1021",
+	 				"weight":"700g",
+	 				"packages":"10x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/61-favori/4.gif",
+	 				"code":"1020",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/61-favori/1.gif"},
+	 			{"image" : "/app/img/products/61-favori/2.gif"},
+	 			{"image" : "/app/img/products/61-favori/3.gif"},
+	 			{"image" : "/app/img/products/61-favori/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "62-favori-karamel",
+		 	"icone" : "/app/img/products/62-favori-karamel/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/62-favori-karamel/3.gif",
+	 				"code":"1031",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/62-favori-karamel/4.gif",
+	 				"code":"1030",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/62-favori-karamel/1.gif"},
+	 			{"image" : "/app/img/products/62-favori-karamel/3.gif"},
+	 			{"image" : "/app/img/products/62-favori-karamel/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "63-mastic-toffe",
+		 	"icone" : "/app/img/products/63-mastic-toffe/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/63-mastic-toffe/3.gif",
+	 				"code":"1042",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/63-mastic-toffe/2.gif",
+	 				"code":"1041",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/63-mastic-toffe/4.gif",
+	 				"code":"1040",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/63-mastic-toffe/1.gif"},
+	 			{"image" : "/app/img/products/63-mastic-toffe/2.gif"},
+	 			{"image" : "/app/img/products/63-mastic-toffe/3.gif"},
+	 			{"image" : "/app/img/products/63-mastic-toffe/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "64-caramel-cany",
+		 	"icone" : "/app/img/products/64-caramel-cany/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/64-caramel-cany/3.gif",
+	 				"code":"1052",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/64-caramel-cany/2.gif",
+	 				"code":"1051",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/64-caramel-cany/4.gif",
+	 				"code":"1050",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/64-caramel-cany/1.gif"},
+	 			{"image" : "/app/img/products/64-caramel-cany/2.gif"},
+	 			{"image" : "/app/img/products/64-caramel-cany/3.gif"},
+	 			{"image" : "/app/img/products/64-caramel-cany/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "65-cocoa-soft",
+		 	"icone" : "/app/img/products/65-cocoa-soft/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/65-cocoa-soft/3.gif",
+	 				"code":"1062",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/65-cocoa-soft/2.gif",
+	 				"code":"1061",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/65-cocoa-soft/4.gif",
+	 				"code":"1060",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/65-cocoa-soft/1.gif"},
+	 			{"image" : "/app/img/products/65-cocoa-soft/2.gif"},
+	 			{"image" : "/app/img/products/65-cocoa-soft/3.gif"},
+	 			{"image" : "/app/img/products/65-cocoa-soft/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "66-coffee-soft",
+		 	"icone" : "/app/img/products/66-coffee-soft/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/66-coffee-soft/3.gif",
+	 				"code":"1072",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/66-coffee-soft/2.gif",
+	 				"code":"1071",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/66-coffee-soft/4.gif",
+	 				"code":"1070",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/66-coffee-soft/1.gif"},
+	 			{"image" : "/app/img/products/66-coffee-soft/2.gif"},
+	 			{"image" : "/app/img/products/66-coffee-soft/3.gif"},
+	 			{"image" : "/app/img/products/66-coffee-soft/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "67-milk-soft",
+		 	"icone" : "/app/img/products/67-milk-soft/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/67-milk-soft/3.gif",
+	 				"code":"1082",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/67-milk-soft/2.gif",
+	 				"code":"1081",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/67-milk-soft/4.gif",
+	 				"code":"1080",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/67-milk-soft/1.gif"},
+	 			{"image" : "/app/img/products/67-milk-soft/2.gif"},
+	 			{"image" : "/app/img/products/67-milk-soft/3.gif"},
+	 			{"image" : "/app/img/products/67-milk-soft/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "68-liye",
+		 	"icone" : "/app/img/products/68-liye/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/68-liye/2.gif",
+	 				"code":"1091",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/68-liye/3.gif",
+	 				"code":"1090",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/68-liye/1.gif"},
+	 			{"image" : "/app/img/products/68-liye/2.gif"},
+	 			{"image" : "/app/img/products/68-liye/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "69-sekerim",
+		 	"icone" : "/app/img/products/69-sekerim/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/69-sekerim/2.gif",
+	 				"code":"1101",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/69-sekerim/3.gif",
+	 				"code":"1100",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/69-sekerim/1.gif"},
+	 			{"image" : "/app/img/products/69-sekerim/2.gif"},
+	 			{"image" : "/app/img/products/69-sekerim/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "70-susamli",
+		 	"icone" : "/app/img/products/70-susamli/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/70-susamli/2.gif",
+	 				"code":"1111",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/70-susamli/3.gif",
+	 				"code":"1110",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/70-susamli/1.gif"},
+	 			{"image" : "/app/img/products/70-susamli/2.gif"},
+	 			{"image" : "/app/img/products/70-susamli/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "71-tomy-meyve",
+		 	"icone" : "/app/img/products/71-tomy-meyve/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/71-tomy-meyve/2.gif",
+	 				"code":"1120",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/71-tomy-meyve/1.gif"},
+	 			{"image" : "/app/img/products/71-tomy-meyve/2.gif"}
+	 		]
+		},
+		{
+		 	"root" : "72-tomy",
+		 	"icone" : "/app/img/products/72-tomy/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/72-tomy/2.gif",
+	 				"code":"1120",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/72-tomy/1.gif"},
+	 			{"image" : "/app/img/products/72-tomy/2.gif"}
+	 		]
+		},
+		{
+		 	"root" : "73-gooy-quatro",
+		 	"icone" : "/app/img/products/73-gooy-quatro/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/73-gooy-quatro/2.gif",
+	 				"code":"xxxx",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/73-gooy-quatro/3.gif",
+	 				"code":"1130",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/73-gooy-quatro/1.gif"},
+	 			{"image" : "/app/img/products/73-gooy-quatro/2.gif"},
+	 			{"image" : "/app/img/products/73-gooy-quatro/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "75-gool",
+		 	"icone" : "/app/img/products/75-gool/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/75-gool/2.gif",
+	 				"code":"1141",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/75-gool/3.gif",
+	 				"code":"1140",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/75-gool/1.gif"},
+	 			{"image" : "/app/img/products/75-gool/2.gif"},
+	 			{"image" : "/app/img/products/75-gool/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "74-gool-meyve",
+		 	"icone" : "/app/img/products/74-gool-meyve/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/74-gool-meyve/2.gif",
+	 				"code":"1151",
+	 				"weight":"2kg",
+	 				"packages":"8x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/74-gool-meyve/3.gif",
+	 				"code":"1150",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/74-gool-meyve/1.gif"},
+	 			{"image" : "/app/img/products/74-gool-meyve/2.gif"},
+	 			{"image" : "/app/img/products/74-gool-meyve/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "76-gool-torbacik",
+		 	"icone" : "/app/img/products/76-gool-torbacik/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/76-gool-torbacik/2.gif",
+	 				"code":"1161",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/76-gool-torbacik/3.gif",
+	 				"code":"1160",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/76-gool-torbacik/1.gif"},
+	 			{"image" : "/app/img/products/76-gool-torbacik/2.gif"},
+	 			{"image" : "/app/img/products/76-gool-torbacik/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "77-bayram-frutti",
+		 	"icone" : "/app/img/products/77-bayram-frutti/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/77-bayram-frutti/3.gif",
+	 				"code":"1172",
+	 				"weight":"1kg",
+	 				"packages":"8x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/77-bayram-frutti/2.gif",
+	 				"code":"1171",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/77-bayram-frutti/4.gif",
+	 				"code":"1170",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/77-bayram-frutti/1.gif"},
+	 			{"image" : "/app/img/products/77-bayram-frutti/2.gif"},
+	 			{"image" : "/app/img/products/77-bayram-frutti/3.gif"},
+	 			{"image" : "/app/img/products/77-bayram-frutti/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "78-bayram-tropical",
+		 	"icone" : "/app/img/products/78-bayram-tropical/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/78-bayram-tropical/3.gif",
+	 				"code":"1182",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/78-bayram-tropical/2.gif",
+	 				"code":"1181",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/78-bayram-tropical/4.gif",
+	 				"code":"1180",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/78-bayram-tropical/1.gif"},
+	 			{"image" : "/app/img/products/78-bayram-tropical/2.gif"},
+	 			{"image" : "/app/img/products/78-bayram-tropical/3.gif"},
+	 			{"image" : "/app/img/products/78-bayram-tropical/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "79-bayram-milk",
+		 	"icone" : "/app/img/products/79-bayram-milk/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/79-bayram-milk/3.gif",
+	 				"code":"1192",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/79-bayram-milk/2.gif",
+	 				"code":"1191",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/79-bayram-milk/4.gif",
+	 				"code":"1190",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/79-bayram-milk/1.gif"},
+	 			{"image" : "/app/img/products/79-bayram-milk/2.gif"},
+	 			{"image" : "/app/img/products/79-bayram-milk/3.gif"},
+	 			{"image" : "/app/img/products/79-bayram-milk/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "80-bayram-double-milk",
+		 	"icone" : "/app/img/products/80-bayram-double-milk/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/80-bayram-double-milk/3.gif",
+	 				"code":"1202",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/80-bayram-double-milk/2.gif",
+	 				"code":"1201",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/80-bayram-double-milk/4.gif",
+	 				"code":"1200",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/80-bayram-double-milk/1.gif"},
+	 			{"image" : "/app/img/products/80-bayram-double-milk/2.gif"},
+	 			{"image" : "/app/img/products/80-bayram-double-milk/3.gif"},
+	 			{"image" : "/app/img/products/80-bayram-double-milk/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "81-bayram-coffee",
+		 	"icone" : "/app/img/products/81-bayram-coffee/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/81-bayram-coffee/3.gif",
+	 				"code":"1212",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/81-bayram-coffee/2.gif",
+	 				"code":"1211",
+	 				"weight":"350g",
+	 				"packages":"12x350"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/81-bayram-coffee/4.gif",
+	 				"code":"1210",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/81-bayram-coffee/1.gif"},
+	 			{"image" : "/app/img/products/81-bayram-coffee/2.gif"},
+	 			{"image" : "/app/img/products/81-bayram-coffee/3.gif"},
+	 			{"image" : "/app/img/products/81-bayram-coffee/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "82-bayram-cappucino",
+		 	"icone" : "/app/img/products/82-bayram-cappucino/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/82-bayram-cappucino/3.gif",
+	 				"code":"1222",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/82-bayram-cappucino/2.gif",
+	 				"code":"1221",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/82-bayram-cappucino/4.gif",
+	 				"code":"1220",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/82-bayram-cappucino/1.gif"},
+	 			{"image" : "/app/img/products/82-bayram-cappucino/2.gif"},
+	 			{"image" : "/app/img/products/82-bayram-cappucino/3.gif"},
+	 			{"image" : "/app/img/products/82-bayram-cappucino/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "83-bayram-butter",
+		 	"icone" : "/app/img/products/83-bayram-butter/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/83-bayram-butter/3.gif",
+	 				"code":"1232",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/83-bayram-butter/2.gif",
+	 				"code":"1231",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/83-bayram-butter/4.gif",
+	 				"code":"1230",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/83-bayram-butter/1.gif"},
+	 			{"image" : "/app/img/products/83-bayram-butter/2.gif"},
+	 			{"image" : "/app/img/products/83-bayram-butter/3.gif"},
+	 			{"image" : "/app/img/products/83-bayram-butter/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "84-bayram-caramel",
+		 	"icone" : "/app/img/products/84-bayram-caramel/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/84-bayram-caramel/3.gif",
+	 				"code":"1242",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/84-bayram-caramel/2.gif",
+	 				"code":"1241",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/84-bayram-caramel/4.gif",
+	 				"code":"1240",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/84-bayram-caramel/1.gif"},
+	 			{"image" : "/app/img/products/84-bayram-caramel/2.gif"},
+	 			{"image" : "/app/img/products/84-bayram-caramel/3.gif"},
+	 			{"image" : "/app/img/products/84-bayram-caramel/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "85-sweet-fruit",
+		 	"icone" : "/app/img/products/85-sweet-fruit/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/85-sweet-fruit/3.gif",
+	 				"code":"1252",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/85-sweet-fruit/2.gif",
+	 				"code":"1251",
+	 				"weight":"150g",
+	 				"packages":"24x150g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/85-sweet-fruit/4.gif",
+	 				"code":"1250",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/85-sweet-fruit/1.gif"},
+	 			{"image" : "/app/img/products/85-sweet-fruit/2.gif"},
+	 			{"image" : "/app/img/products/85-sweet-fruit/3.gif"},
+	 			{"image" : "/app/img/products/85-sweet-fruit/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "86-sweet-coffee",
+		 	"icone" : "/app/img/products/86-sweet-coffee/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/86-sweet-coffee/3.gif",
+	 				"code":"1272",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/86-sweet-coffee/2.gif",
+	 				"code":"1271",
+	 				"weight":"150g",
+	 				"packages":"24x150g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/86-sweet-coffee/4.gif",
+	 				"code":"1270",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/86-sweet-coffee/1.gif"},
+	 			{"image" : "/app/img/products/86-sweet-coffee/2.gif"},
+	 			{"image" : "/app/img/products/86-sweet-coffee/3.gif"},
+	 			{"image" : "/app/img/products/86-sweet-coffee/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "87-sweet-milk",
+		 	"icone" : "/app/img/products/87-sweet-milk/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/87-sweet-milk/2.gif",
+	 				"code":"1282",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/87-sweet-milk/3.gif",
+	 				"code":"1281",
+	 				"weight":"150g",
+	 				"packages":"24x150g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/87-sweet-milk/4.gif",
+	 				"code":"1280",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/87-sweet-milk/1.gif"},
+	 			{"image" : "/app/img/products/87-sweet-milk/2.gif"},
+	 			{"image" : "/app/img/products/87-sweet-milk/3.gif"},
+	 			{"image" : "/app/img/products/87-sweet-milk/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "88-balim-bonbon",
+		 	"icone" : "/app/img/products/88-balim-bonbon/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/88-balim-bonbon/2.gif",
+	 				"code":"1291",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/88-balim-bonbon/3.gif",
+	 				"code":"1290",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/88-balim-bonbon/1.gif"},
+	 			{"image" : "/app/img/products/88-balim-bonbon/2.gif"},
+	 			{"image" : "/app/img/products/88-balim-bonbon/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "89-minis-vitamin",
+		 	"icone" : "/app/img/products/89-minis-vitamin/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/89-minis-vitamin/2.gif",
+	 				"code":"1303",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/89-minis-vitamin/3.gif",
+	 				"code":"1301",
+	 				"weight":"350g",
+	 				"packages":"24x250g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/89-minis-vitamin/4.gif",
+	 				"code":"1300",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/89-minis-vitamin/1.gif"},
+	 			{"image" : "/app/img/products/89-minis-vitamin/2.gif"},
+	 			{"image" : "/app/img/products/89-minis-vitamin/3.gif"},
+	 			{"image" : "/app/img/products/89-minis-vitamin/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "90-bonbon-karanfil",
+		 	"icone" : "/app/img/products/90-bonbon-karanfil/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/90-bonbon-karanfil/2.gif",
+	 				"code":"1361-1371",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/90-bonbon-karanfil/3.gif",
+	 				"code":"1360-1370",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/90-bonbon-karanfil/1.gif"},
+	 			{"image" : "/app/img/products/90-bonbon-karanfil/2.gif"},
+	 			{"image" : "/app/img/products/90-bonbon-karanfil/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "91-bobo",
+		 	"icone" : "/app/img/products/91-bobo/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/91-bobo/2.gif",
+	 				"code":"1311",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/91-bobo/3.gif",
+	 				"code":"1310",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/91-bobo/1.gif"},
+	 			{"image" : "/app/img/products/91-bobo/2.gif"},
+	 			{"image" : "/app/img/products/91-bobo/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "92-oximax",
+		 	"icone" : "/app/img/products/92-oximax/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/92-oximax/1.gif",
+	 				"code":"1323",
+	 				"weight":"800g",
+	 				"packages":"8x800g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/92-oximax/1.gif",
+	 				"code":"1322",
+	 				"weight":"40g",
+	 				"packages":"8x(24x40)g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/92-oximax/2.gif",
+	 				"code":"1321",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/92-oximax/3.gif",
+	 				"code":"1320",
+	 				"weight":"800g",
+	 				"packages":"6x800g"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/92-oximax/1.gif"},
+	 			{"image" : "/app/img/products/92-oximax/2.gif"},
+	 			{"image" : "/app/img/products/92-oximax/3.gif"},
+	 			{"image" : "/app/img/products/92-oximax/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "93-naneli",
+		 	"icone" : "/app/img/products/93-naneli/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/93-naneli/3.gif",
+	 				"code":"1333",
+	 				"weight":"800g",
+	 				"packages":"8x800g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/93-naneli/1.gif",
+	 				"code":"1332",
+	 				"weight":"40g",
+	 				"packages":"8x(24x40)g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/93-naneli/2.gif",
+	 				"code":"1331",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			}
+	 			,
+	 			{
+	 				"image" : "/app/img/products/93-naneli/4.gif",
+	 				"code":"1330",
+	 				"weight":"800g",
+	 				"packages":"6x800g"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/93-naneli/1.gif"},
+	 			{"image" : "/app/img/products/93-naneli/2.gif"},
+	 			{"image" : "/app/img/products/93-naneli/3.gif"},
+	 			{"image" : "/app/img/products/93-naneli/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "94-coffelim-extra",
+		 	"icone" : "/app/img/products/94-coffelim-extra/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/94-coffelim-extra/3.gif",
+	 				"code":"1343",
+	 				"weight":"800g",
+	 				"packages":"8x800g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/94-coffelim-extra/2.gif",
+	 				"code":"1342",
+	 				"weight":"40g",
+	 				"packages":"8x(24x40)g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/94-coffelim-extra/4.gif",
+	 				"code":"1341",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/94-coffelim-extra/4.gif",
+	 				"code":"1340",
+	 				"weight":"800g",
+	 				"packages":"6x800g"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/94-coffelim-extra/1.gif"},
+	 			{"image" : "/app/img/products/94-coffelim-extra/2.gif"},
+	 			{"image" : "/app/img/products/94-coffelim-extra/3.gif"},
+	 			{"image" : "/app/img/products/94-coffelim-extra/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "95-sutlum",
+		 	"icone" : "/app/img/products/95-sutlum/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/95-sutlum/3.gif",
+	 				"code":"1353",
+	 				"weight":"800g",
+	 				"packages":"8x800g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/95-sutlum/1.gif",
+	 				"code":"1352",
+	 				"weight":"40g",
+	 				"packages":"8x(24x40)g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/95-sutlum/2.gif",
+	 				"code":"1351",
+	 				"weight":"350g",
+	 				"packages":"12x350g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/95-sutlum/4.gif",
+	 				"code":"1350",
+	 				"weight":"800g",
+	 				"packages":"6x800g"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/95-sutlum/1.gif"},
+	 			{"image" : "/app/img/products/95-sutlum/2.gif"},
+	 			{"image" : "/app/img/products/95-sutlum/3.gif"},
+	 			{"image" : "/app/img/products/95-sutlum/4.gif"},
+	 			{"image" : "/app/img/products/95-sutlum/4.gif"}
+	 		]
+		},
+		{
+		 	"root" : "96-kitmala",
+		 	"icone" : "/app/img/products/96-kitmala/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/96-kitmala/2.gif",
+	 				"code":"1381",
+	 				"weight":"1kg",
+	 				"packages":"8x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/96-kitmala/3.gif",
+	 				"code":"1380",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/96-kitmala/1.gif"},
+	 			{"image" : "/app/img/products/96-kitmala/2.gif"},
+	 			{"image" : "/app/img/products/96-kitmala/3.gif"}
+	 		]
+		},
+		{
+		 	"root" : "97-multi-frutty",
+		 	"icone" : "/app/img/products/97-multi-frutty/icone.gif",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/97-multi-frutty/1.gif",
+	 				"code":"000",
+	 				"weight":"000",
+	 				"packages":"000"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/97-multi-frutty/2.gif",
+	 				"code":"000",
+	 				"weight":"000",
+	 				"packages":"000"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/97-multi-frutty/3.gif",
+	 				"code":"000",
+	 				"weight":"000",
+	 				"packages":"000"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/97-multi-frutty/4.gif",
+	 				"code":"000",
+	 				"weight":"000",
+	 				"packages":"000"
+	 			}
+	 		],
+	 		"slider" : [
+	 			{"image" : "/app/img/products/97-multi-frutty/1.gif"},
+	 			{"image" : "/app/img/products/97-multi-frutty/2.gif"},
+	 			{"image" : "/app/img/products/97-multi-frutty/3.gif"},
+	 			{"image" : "/app/img/products/97-multi-frutty/4.gif"}
+	 		]
+		}
+
+	 ]
+} 

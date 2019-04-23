@@ -1,0 +1,779 @@
+{
+	"products":[
+		
+		{
+			"category": "chocolate",
+		 	"root" : "2-cocos",
+		 	"icone" : "/app/img/products/2-cocos/icone.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/2-cocos/2.jpg",
+	 				"code":"16",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/2-cocos/3.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "3-twist",
+		 	"icone" : "/app/img/products/3-twist/icone.png",
+		 	"singleProduct" : "/app/img/products/3-twist/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/3-twist/2.jpg",
+	 				"code":"17",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/3-twist/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/3-twist/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/3-twist/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/3-twist/6.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "4-mango",
+		 	"icone" : "/app/img/products/4-mango/icone.png",
+		 	"singleProduct" : "/app/img/products/4-mango/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/4-mango/2.jpg",
+	 				"code":"18",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/4-mango/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/4-mango/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/4-mango/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/4-mango/6.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/4-mango/7.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/4-mango/8.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "5-still",
+		 	"icone" : "/app/img/products/5-still/icone.png",
+		 	"singleProduct" : "/app/img/products/5-still/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/5-still/2.jpg",
+	 				"code":"19",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/5-still/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/5-still/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/5-still/5.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "6-walnut",
+		 	"icone" : "/app/img/products/6-walnut/icone.png",
+		 	"singleProduct" : "/app/img/products/6-walnut/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/6-walnut/2.jpg",
+	 				"code":"20",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/6-walnut/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/6-walnut/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/6-walnut/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/6-walnut/6.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/6-walnut/7.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/6-walnut/8.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "7-joley",
+		 	"icone" : "/app/img/products/7-joley/icone.png",
+		 	"singleProduct" : "/app/img/products/7-joley/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/7-joley/2.jpg",
+	 				"code":"23",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/7-joley/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/7-joley/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/7-joley/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/7-joley/6.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/7-joley/7.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/7-joley/8.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "8-love-story",
+		 	"icone" : "/app/img/products/8-love-story/icone.png",
+		 	"singleProduct" : "/app/img/products/8-love-story/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/8-love-story/2.jpg",
+	 				"code":"26",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/8-love-story/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/8-love-story/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/8-love-story/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/8-love-story/6.jpg"
+	 			}
+	 		]	
+	 	},
+		{
+			"category": "chocolate",
+		 	"root" : "9-premium",
+		 	"icone" : "/app/img/products/9-premium/icone.png",
+		 	"singleProduct" : "/app/img/products/9-premium/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/9-premium/2.jpg",
+	 				"code":"1",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/9-premium/7.jpg",
+	 				"code":"1A",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/9-premium/8.jpg",
+	 				"code":"1A",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/9-premium/9.jpg",
+	 				"code":"1A",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/9-premium/10.jpg",
+	 				"code":"1A",
+	 				"weight":"1kg",
+	 				"packages":"6x1kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/9-premium/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/9-premium/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/9-premium/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/9-premium/6.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "10-adem-yagci",
+		 	"icone" : "/app/img/products/10-adem-yagci/icone.png",
+		 	"singleProduct" : "/app/img/products/10-adem-yagci/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/10-adem-yagci/2.jpg",
+	 				"code":"27",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/10-adem-yagci/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/10-adem-yagci/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/10-adem-yagci/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/10-adem-yagci/6.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "11-smooth",
+		 	"icone" : "/app/img/products/11-smooth/icone.png",
+		 	"singleProduct" : "/app/img/products/11-smooth/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/11-smooth/2.jpg",
+	 				"code":"24",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/11-smooth/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/11-smooth/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/11-smooth/5.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "12-swing",
+		 	"icone" : "/app/img/products/12-swing/icone.png",
+		 	"singleProduct" : "/app/img/products/12-swing/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/12-swing/2.jpg",
+	 				"code":"25",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/12-swing/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/12-swing/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/12-swing/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/12-swing/6.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "13-baton",
+		 	"icone" : "/app/img/products/13-baton/icone.png",
+		 	"singleProduct" : "/app/img/products/13-baton/1.png",
+		 	"info" : [
+		 		{
+	 				"image" : "/app/img/products/13-baton/1.jpg",
+	 				"code":"30",
+	 				"weight":"3kg",
+	 				"packages":"6x3kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/13-baton/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/13-baton/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/13-baton/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/13-baton/6.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "14-plus",
+		 	"icone" : "/app/img/products/14-plus/icone.png",
+		 	"singleProduct" : "/app/img/products/14-plus/1.png",
+		 	"info" : [
+		 		{
+	 				"image" : "/app/img/products/14-plus/2.jpg",
+	 				"code":"28",
+	 				"weight":"2kg",
+	 				"packages":"6x2kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/14-plus/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/14-plus/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/14-plus/5.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/14-plus/6.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/14-plus/7.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/14-plus/8.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "15-napoli",
+		 	"icone" : "/app/img/products/15-napoli/icone.png",
+		 	"singleProduct" : "/app/img/products/15-napoli/1.png",
+		 	"info" : [
+	 			{
+	 				"image" : "/app/img/products/15-napoli/6.jpg",
+	 				"code":"29",
+	 				"weight":"3kg",
+	 				"packages":"6x3kg"
+	 			}
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/15-napoli/1.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/15-napoli/2.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/15-napoli/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/15-napoli/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/15-napoli/5.jpg"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "1-special",
+		 	"icone" : "/app/img/products/1-special/icone.png",
+		 	"singleProduct" : "/app/img/products/1-special/1.png",
+		 	"info" : [
+		 		{
+	 				"image" : "/app/img/products/1-special/1.jpg",
+	 				"code":"2",
+	 				"weight":"500g",
+	 				"packages":"6x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/2.jpg",
+	 				"code":"2",
+	 				"weight":"500g",
+	 				"packages":"6x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/3.jpg",
+	 				"code":"2",
+	 				"weight":"500g",
+	 				"packages":"6x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/4.jpg",
+	 				"code":"2",
+	 				"weight":"500g",
+	 				"packages":"6x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/5.jpg",
+	 				"code":"6",
+	 				"weight":"250g",
+	 				"packages":"8x250g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/6.jpg",
+	 				"code":"6",
+	 				"weight":"250g",
+	 				"packages":"8x250g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/7.jpg",
+	 				"code":"6",
+	 				"weight":"250g",
+	 				"packages":"8x250g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/8.jpg",
+	 				"code":"6",
+	 				"weight":"250g",
+	 				"packages":"8x250g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/9.jpg",
+	 				"code":"7",
+	 				"weight":"250g",
+	 				"packages":"8x250g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/10.jpg",
+	 				"code":"7",
+	 				"weight":"250g",
+	 				"packages":"8x250g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/11.jpg",
+	 				"code":"7",
+	 				"weight":"250g",
+	 				"packages":"8x250g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/12.jpg",
+	 				"code":"7",
+	 				"weight":"250g",
+	 				"packages":"8x250g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/13.jpg",
+	 				"code":"8",
+	 				"weight":"650g",
+	 				"packages":"9x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/14.jpg",
+	 				"code":"8",
+	 				"weight":"650g",
+	 				"packages":"9x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/15.jpg",
+	 				"code":"8",
+	 				"weight":"650g",
+	 				"packages":"9x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/16.jpg",
+	 				"code":"8",
+	 				"weight":"650g",
+	 				"packages":"9x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/17.jpg",
+	 				"code":"9",
+	 				"weight":"700g",
+	 				"packages":"8x700g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/18.jpg",
+	 				"code":"9",
+	 				"weight":"700g",
+	 				"packages":"8x700g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/19.jpg",
+	 				"code":"9",
+	 				"weight":"700g",
+	 				"packages":"8x700g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/20.jpg",
+	 				"code":"9",
+	 				"weight":"700g",
+	 				"packages":"8x700g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/21.jpg",
+	 				"code":"10",
+	 				"weight":"500g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/22.jpg",
+	 				"code":"10",
+	 				"weight":"500g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/23.jpg",
+	 				"code":"10",
+	 				"weight":"500g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/24.jpg",
+	 				"code":"10",
+	 				"weight":"500g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/25.jpg",
+	 				"code":"11",
+	 				"weight":"650g",
+	 				"packages":"6x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/26.jpg",
+	 				"code":"11",
+	 				"weight":"650g",
+	 				"packages":"6x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/27.jpg",
+	 				"code":"11",
+	 				"weight":"650g",
+	 				"packages":"6x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/28.jpg",
+	 				"code":"11",
+	 				"weight":"650g",
+	 				"packages":"6x650g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/29.jpg",
+	 				"code":"12",
+	 				"weight":"600g",
+	 				"packages":"8x600g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/30.jpg",
+	 				"code":"12",
+	 				"weight":"600g",
+	 				"packages":"8x600g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/31.jpg",
+	 				"code":"12",
+	 				"weight":"600g",
+	 				"packages":"8x600g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/32.jpg",
+	 				"code":"12",
+	 				"weight":"600g",
+	 				"packages":"8x600g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/33.jpg",
+	 				"code":"13",
+	 				"weight":"650g",
+	 				"packages":"8x650kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/34.jpg",
+	 				"code":"13",
+	 				"weight":"650g",
+	 				"packages":"8x650kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/35.jpg",
+	 				"code":"13",
+	 				"weight":"650g",
+	 				"packages":"8x650kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/36.jpg",
+	 				"code":"13",
+	 				"weight":"650g",
+	 				"packages":"8x650kg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/37.jpg",
+	 				"code":"14",
+	 				"weight":"550g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/38.jpg",
+	 				"code":"14",
+	 				"weight":"550g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/39.jpg",
+	 				"code":"14",
+	 				"weight":"550g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/40.jpg",
+	 				"code":"14",
+	 				"weight":"550g",
+	 				"packages":"6x550g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/41.jpg",
+	 				"code":"15",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/42.jpg",
+	 				"code":"15",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/43.jpg",
+	 				"code":"15",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/44.jpg",
+	 				"code":"15",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/45.jpg",
+	 				"code":"21",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/46.jpg",
+	 				"code":"21",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/47.jpg",
+	 				"code":"21",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/48.jpg",
+	 				"code":"21",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/49.jpg",
+	 				"code":"22",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/50.jpg",
+	 				"code":"22",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/51.jpg",
+	 				"code":"22",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/1-special/52.jpg",
+	 				"code":"22",
+	 				"weight":"500g",
+	 				"packages":"8x500g"
+	 			}
+	 		]
+		},
+		{
+			"category": "chocolate",
+		 	"root" : "16-jelly",
+		 	"icone" : "/app/img/products/16-jelly/icone.png",
+		 	"singleProduct" : "/app/img/products/16-jelly/1.png",
+		 	"info" : [
+		 		
+	 		],
+	 		"small" :[
+	 			{
+	 				"image" : "/app/img/products/16-jelly/1.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/16-jelly/2.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/16-jelly/3.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/16-jelly/4.jpg"
+	 			},
+	 			{
+	 				"image" : "/app/img/products/16-jelly/5.jpg"
+	 			}
+	 		]
+		}
+
+	 ]
+} 

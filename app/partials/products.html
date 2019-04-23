@@ -1,0 +1,82 @@
+<div class="fadein" ng-class="{fadeout: fadeOut}" ng-controller ="ViewContaierCtrl">
+	<div class="centerContainer products hideFooter">
+		
+		<div class="containerContent">
+
+			<h3 class="backButton" ng-class="{show: activeProduct != 'productList'}" ng-click="activated('productList')"><i></i>ÜRÜN LİSTESİNE GERİ DÖN</h3>
+			
+
+			<!-- ürün listesi -->		
+			<div class="rightPart grid " 
+				ng-class="{show: activeProduct == 'productList'}">
+				<div class="nanoContainer">
+					<div class="nano">
+						<div class="nano-content">
+							<div class="productContainer"
+								ng-repeat="product in productArray | filter:{category:currentCategory.name}"
+								ng-class="{detail: activeProduct == product.root}" 
+								ng-click="showProductDetail(product.root,product)">
+								<img src="{{product.icone}}">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<!-- ürün detay -->
+			<div class="rightPart grid detail" 
+				ng-repeat="product in productDetail"
+				ng-class="{show : activeProduct == product.root}">
+
+				<img class="singleProduct" 
+					ng-class="{show : activeProduct == product.root}" 
+					src="{{product.singleProduct}}">
+
+				<div class="nanoContainer">
+					<div class="nano">
+						<div class="nano-content">
+							<div class="detailPart"
+								ng-repeat="info in product.info">
+								<div style="min-height:188px"><img src="{{info.image}}" ng-click="activatedGallery(info.image)">		</div>		
+								<h3><i></i>Zoom</h3>
+								<ul>
+									<li>
+									ÜRÜN KODU<br>
+									PRODUCT CODE<br>
+									رمز المنتج
+									<span>{{info.code}}</span>	
+									</li>
+									<li>
+									ÜRÜN GRAMAJI<br>
+									PRODUCT WEIGHT<br>
+									رمز المنتج 
+									<span>{{info.weight}}</span>	
+									</li>
+									<li>
+									KOLI ADEDİ<br>
+									NUMBER OF PACKETS<br>
+									رمز المنتج
+									<span>{{info.packages}}</span>
+									</li>
+								</ul>
+							</div>
+							<div class="detailPart"
+								ng-repeat="info in product.small">
+								<div style="min-height:188px"><img src="{{info.image}}" ng-click="activatedGallery(info.image)">		</div>		
+								<h3><i></i>Zoom</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</div>
+
+<div id="galry">
+	<div class="fullGalry"></div>
+	<img src="{{glryImage}}">
+</div>
+

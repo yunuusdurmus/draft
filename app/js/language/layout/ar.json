@@ -1,0 +1,27 @@
+{
+	"layout":{
+		"eKatalog":"الالكتروني الكتالوج",
+		"yaklasanFuarlar":"الآتية المعارض",
+		"kurumsal":" الشركة & الجودة",
+		"urunler":"منتجات",
+		"iletisim":"إلينا  تواصل",
+		"blog":"الآتية",
+		"home":"الصفحة الرئيسية",
+
+		"info":"معلومات",
+		"quality":"سياسة الجودة",
+		"privat":"سياسة خاصة",
+		"deliver":"شروط التسليم",
+		"about":"من نحن",
+
+		"productsGrup":"المنتجات  أصناف",
+		"jole":"الجلي مجوعات",
+		"cholate":"الشوكولاه مجوعات",
+		"candy":"الملبس مجوعات",
+		"gift":"Gift Boxs",
+
+		"phone":"P : +90 (332) 239 23 23 (pbx)",
+		"fax":"F : +90 (332) 239 10 88",
+		"mail":"M : evliya@evliya.com.tr"
+	}
+}

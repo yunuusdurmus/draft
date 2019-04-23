@@ -1,0 +1,27 @@
+{
+	"layout":{
+		"eKatalog":"E-KATALOG",
+		"yaklasanFuarlar":"YAKLAŞAN FUARLAR",
+		"kurumsal":"KURUMSAL & KALİTE",
+		"urunler":"ÜRÜNLER",
+		"iletisim":"İLETİŞİM",
+		"blog":"FUARLAR",
+		"home":"ANASAYFA",
+
+		"info":"İletişim Bilgileri",
+		"quality":"Kalite Politikamız",
+		"privat":"Gizlilik Politikamız",
+		"deliver":"Teslimat Şartları",
+		"about":"Hakkımızda",
+
+		"productsGrup":"Ürün Grupları",
+		"jole":"Jöle Grubu",
+		"cholate":"Çikolata Grubu",
+		"candy":"Şeker Grubu",
+		"gift":"Hediye Paketleri",
+
+		"phone":"T : +90 (332) 239 23 23 (pbx)",
+		"fax":"F : +90 (332) 239 10 88",
+		"mail":"M : evliya@evliya.com.tr"
+	}
+}
